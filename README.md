@@ -7,3 +7,4 @@ goal is to successfully change the HTML tags in the documents in order to add se
 🌟Within this repository you will find my corrected index.html file with semantic tags added as well as a linked
 stylesheet that is also corrected.
 
+🌟The task is to change the non semantic tags to semantic tags to better understand the importance of organization and clarity when working collaboratively. 
