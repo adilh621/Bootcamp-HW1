@@ -9,5 +9,6 @@ stylesheet that is also corrected.
 
 🌟The task is to change the non semantic tags to semantic tags to better understand the importance of organization and clarity when working collaboratively. 
 
-🌟The link to the deployed website is 
+🌟The link to the deployed website is https://adilh621.github.io/Code-Refactor-HW1/ 
+
 
