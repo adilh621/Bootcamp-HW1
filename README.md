@@ -8,3 +8,6 @@ goal is to successfully change the HTML tags in the documents in order to add se
 stylesheet that is also corrected.
 
 🌟The task is to change the non semantic tags to semantic tags to better understand the importance of organization and clarity when working collaboratively. 
+
+🌟The link to the deployed website is 
+
